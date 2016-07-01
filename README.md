@@ -1,5 +1,5 @@
 # Akiyoshi Shop List
-This data is Akiyoshi's shop list.
+This data is [Akiyoshi](http://www.akiyoshi.co.jp/)'s shop list.
 
 
 ## License
